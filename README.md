@@ -12,4 +12,4 @@ To run the program, simply download the file from one of the above links, unzip,
 To run the program in Python, you will need to download the [Vosk vosk-model-small-es-0.42 model](https://alphacephei.com/vosk/models) and place it unzipped in the same directory as BeginStudy.exe.
 
 # Notes
-This program is a work in progress. It will in all likelihood provide pronunciation feedback that is irrelevant to your recorded speech. I consider this to be more of a proof-of-concept than a useful tool for Spanish learners. A more mature version of this program would employ a neural network to classify the rhotics from the recorded speech and provide pronunciaition feedback based on this.
+I consider this program to be more of a proof-of-concept than a useful tool for Spanish learners. It will in all likelihood provide pronunciation feedback that is irrelevant to your recorded speech. A more mature version of this program would employ a neural network to classify the rhotics from the recorded speech and provide pronunciaition feedback based on this. Edits to this code are also needed to make this code more extensible and easy to maintain.
